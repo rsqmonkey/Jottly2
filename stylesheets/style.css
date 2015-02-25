@@ -1,0 +1,73 @@
+body {
+    background: #fff url(images/main-image.png) no-repeat top center;
+    background-size:cover;
+}
+
+h1 {
+  display: block:
+  font-size: 48px;
+  margin-top: 20px
+  font-family: "Arial","Source Sans Pro";
+  color: #000000;
+  line-height: 2;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: "Arial","Source Sans Pro";
+  color: #000000;
+  line-height: 1;
+  text-align: center;
+}
+
+h3 {
+    
+  font-size:18px; /* 1.125em */
+  font-family: "Arial","Source Sans Pro";
+  font-weight:bold;
+  color: #000000;
+  line-height: 1;
+  text-align: center;
+}
+
+.Ellipse_1 {
+  border-radius: 50%;
+  background-color: rgb(163, 151, 101);
+  left: 175px;
+  top: 548px;
+  width: 204px;
+  height: 204px;
+  z-index: 29;
+}
+.Ellipse_2 {
+  border-radius: 50%;
+  background-color: rgb(163, 151, 101);
+  left: 538px;
+  top: 542px;
+  width: 204px;
+  height: 204px;
+  z-index: 28;
+}
+.Ellipse_3 {
+  border-radius: 50%;
+  background-color: rgb(163, 151, 101);
+  left: 908px;
+  top: 542px;
+  width: 204px;
+  height: 204px;
+  z-index: 27;
+}
+
+
+
+a:link {property:value;} /* unvisited */
+a:visited {property:value;} /* visited */
+a:hover {property:value;} /* mouse over */
+a:active {property:value;} /* selected */
+
+
+width:300px;
+padding:10px;
+border:5px solid black;
+margin:10px;

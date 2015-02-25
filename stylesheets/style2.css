@@ -1,0 +1,202 @@
+body {
+	font-family: "Aerial-Regular", "Calabri-Regular", "Gothic-Regular", sans-serif;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
+.right {
+	text-align: right;
+}
+
+
+/* HEADER */
+div#header {
+	height: 594px;
+	width: 1260px;
+	background-color: #a39765;
+	background-image: url('../images/main-image.png');
+	background-size: contain;
+	background-position: center;
+	margin: 0;
+}
+
+div#logo {
+		float: left;
+		padding:20px 20px;
+	}
+
+	header {
+		margin-top: 20px;
+	}
+	header h1 {
+		margin:0;
+		display: inline;
+	}
+	header nav {
+		display:inline;
+	}
+	header nav ul {
+		float: right;
+		list-style-type: none;
+		margin-top: 15px;
+	}
+		header nav ul li {
+			display: inline;
+			padding:0px 20px;
+		}
+		header nav ul li.selected {
+			border-bottom: 4px solid #cc6600;
+			padding-bottom: 10px;
+		}
+			header nav ul li a {
+				color:#fff;
+				text-decoration: none;
+			}
+			header nav ul li a:hover {
+				color:#ccc;
+			}
+h1,h2,h3,h4,h5,h6 {
+	font-family: "Aerial-Regular", "alabri-Regular", "Gothic-Regular", sans-serif;
+}
+
+/* MARKETING */
+div#marketing {
+	text-align: center;
+	margin-top: 10px;
+}
+
+	div#marketing h1 {
+		font-weight: 700;
+		color:#464646;
+		font-size: 63px;
+		margin:0;
+		letter-spacing: -0.05em;
+		line-height: .9;
+	}
+		div#marketing h2 {
+			color:#464646;
+			font-size: 20px;
+		}
+
+div#Ipad_Robbs_Mock {
+	margin-bottom: 1px;
+	position: center;
+	text-align: center;
+}
+button#Try_It_For_Free {
+    float: center;
+    width: 264px;
+    height: 74px;
+    padding: 0;
+    margin: 0;
+}
+
+/* BENEFITS */
+div#benefits {
+	text-align: center;
+	padding:60px 0;
+}
+	
+	div#benefits h3 {
+		color:#464646;
+		line-height: 1;
+		font-weight: 400;
+	}
+	
+	div#benefits span.circle {
+		background-color: #a39765;
+		border-radius: 50%;
+		height: 180px;
+		width: 180px;
+		display: block;
+		position: relative;
+		margin:0 auto 20px;
+	}
+
+/* FEATURE ONE */
+div#feature_one {
+	background-color: #ebebeb;
+}
+div#feature_one img {
+	margin-bottom: -6px;
+}
+div#feature_one h4, div#feature_two h4 {
+	color: #464646;
+	line-height: 1.2;
+	margin-top:70px;
+}
+
+/* FEATURE TWO */
+div#feature_two {
+	padding:60px 0;
+}
+
+/* EMAIL */
+div#email {
+	background-color: #a39765;
+	text-align: center;
+	padding:60px 0 20px;
+}
+	div#email h5 {
+		font-size: 40px;
+		font-weight: 900;
+		color:#464646;
+		margin-bottom: 20px;
+	}
+	div#email h6 {
+		font-size: 18px;
+		font-weight: 400;
+		color:#464646;
+		margin-bottom: 20px;
+	}
+	div#email form {
+		margin:0 0 15px 0;
+		padding:0;
+	}
+	div#email form input {
+		display: inline;
+		width:400px;
+		border-radius: 4px;
+		border:none;
+		padding: 12px;
+	}
+	div#email form button {
+		background: #ec9e08!important;
+		color:cc6600;
+		text-shadow:none;
+		border:none;
+		font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+		text-transform: uppercase;
+		font-size: 16px;
+		padding:8px 15px 11px;
+	}
+
+/* FOOTER */
+div#footer {
+	background-color: #cc6600;
+	color:#464646;
+}
+div#footer nav {
+	margin:10px 0 0;
+}
+div#footer p {
+	margin:10px 0 0;
+}
+	div#footer nav ul {
+		list-style-type: none;
+	}
+		div#footer nav ul li {
+			display:inline;
+		}
+			div#footer nav ul li a {
+				color:#464646;
+				text-decoration: none;
+			}
+
+a, a:visited {
+	color:#fff;
+}

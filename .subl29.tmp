@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <tittle>Jott.ly</tittle>
+    </head>
+   <meta charset="utf-8"> 
+        <meta name="author" content="Robb F. Watkins"> 
+        <meta name="keywords" content="Jott.ly, jottly, collaboration, free, asseble, your, team"> 
+        <meta name="description" content="This is my first web site.  I designed and coded this web site."> 
+  <body>
+    <div>
+      <h1> An <em>easier</em> way to write and <span>collaborate.</span></h1>
+   <a href="home.html">Home</a>
+   <a href="about.html">About</a>
+   <a href="contact us">Contact Us</a>
+      <p>Edit, post and share content with <strong>your peers</strong> in a simple way.</p>
+   <br>
+    <img src="http://goo.gl/YTHoHF" alt="Laptop on Dest with Camera and Book" width="300" height="200">
+      <hr>
+   <a href="http://www.google.com" target="_blank">Link to Google</a>
+    <hr>
+     <ol>
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+    </ol>
+    <ul>
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+    </ul>
+    </div>
+  </body>
+ 
+</html>
